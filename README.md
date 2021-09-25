@@ -34,11 +34,13 @@ allure generate allure-results --clean -o allure-report
 allure serve allure-results
 ```
 ## Report View
-You will find the automation <a href="https://drive.google.com/file/d/16bOnb3s7CfQ1oJ3Isfsj6giFb-w19Zvl/view?usp=sharing" target="_blank">Report over view photo</a> here.
-You will find the automation <a href="https://drive.google.com/file/d/1ClI2BTFr4Jy4pw9LjZR76CAalRuSjqWg/view?usp=sharing" target="_blank">Report case-1 photo</a> here.
-You will find the automation <a href="https://drive.google.com/file/d/186_caqhBvbsPvktT7Q7o1trT0dAjqHH_/view?usp=sharing" target="_blank">Report case-2 photo</a> here.
-You will find the automation <a href="https://drive.google.com/file/d/1lm71YCE58xjX55wrRTkZ8T55x1OJG-3t/view?usp=sharing" target="_blank">Report case-3 photo</a> here.
-You will find the automation <a href="https://drive.google.com/file/d/178bMCU02r1_ZQdlY9TQk6ElG2mppN-xM/view?usp=sharing" target="_blank">Report case-4 photo</a> here.
-You will find the automation <a href="https://drive.google.com/file/d/1qD-GJbJf57Cs0qKgiodQ6yS9Fh5GBMnq/view?usp=sharing" target="_blank">Report case-5 photo</a> here.
-You will find the automation <a href="https://drive.google.com/file/d/1hwrDff13JCPTf3KxkHlNugwoRaPcgdcK/view?usp=sharing" target="_blank">Report over view photo</a> here.
+![image](https://user-images.githubusercontent.com/77289022/134785455-a41a0d5b-e768-490c-8d6d-0f7dfaa1a1ce.png)
+![image](https://user-images.githubusercontent.com/77289022/134785498-cedb1896-c621-43e0-8327-aca1bf5a9b70.png)
+![image](https://user-images.githubusercontent.com/77289022/134785516-ca4ec5b0-f21e-4ed7-bbe4-65c82dfd90d8.png)
+
+You will find the automation <a href="https://drive.google.com/file/d/1ClI2BTFr4Jy4pw9LjZR76CAalRuSjqWg/view?usp=sharing" target="_blank">Report case-1 photo</a> ,
+ <a href="https://drive.google.com/file/d/186_caqhBvbsPvktT7Q7o1trT0dAjqHH_/view?usp=sharing" target="_blank">Report case-2 photo</a> 
+, <a href="https://drive.google.com/file/d/1lm71YCE58xjX55wrRTkZ8T55x1OJG-3t/view?usp=sharing" target="_blank">Report case-3 photo</a> ,
+ <a href="https://drive.google.com/file/d/178bMCU02r1_ZQdlY9TQk6ElG2mppN-xM/view?usp=sharing" target="_blank">Report case-4 photo</a>,
+ <a href="https://drive.google.com/file/d/1qD-GJbJf57Cs0qKgiodQ6yS9Fh5GBMnq/view?usp=sharing" target="_blank">Report case-5 photo</a>,
 You will find the automation <a href="https://drive.google.com/file/d/1RkH5BGY-TjdvG1UdLU49te0vuFDFJPAP/view?usp=sharing" target="_blank">Test Video</a> here.
