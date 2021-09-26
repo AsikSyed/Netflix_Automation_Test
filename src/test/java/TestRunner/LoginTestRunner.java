@@ -21,7 +21,7 @@ public class LoginTestRunner extends Setup {
     Login objLogin;
     Utils utils;
 
-     @Test(enabled = true, priority = 1, description = "Login with registered user ID or email and password",groups = "login")
+     @Test(enabled =true, priority = 1, description = "Login with registered user ID or email and password",groups = "login")
     public void doLogin() throws Exception {
         driver.get("https://www.netflix.com/bd/");
         objLogin = new Login(driver);

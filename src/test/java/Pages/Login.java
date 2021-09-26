@@ -140,7 +140,6 @@ public class Login {
         privacy.click();
         linkLogin.click();
         cookie.click();
-
         return saveCookie.getText();
 
 
